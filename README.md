@@ -4,7 +4,7 @@
 
 - ⚙️ I use daily: `.go`, `.ts`, `.vue`, `.tsx`
 - Also proficient with `.cpp` and `.py`
-- My expertise lies in integrating cloud provider services with DevOps and CI/CD platforms.
+- My expertise lies in building platforms geared towards large teams of developers to accelerate the deployment process of their applications, as well as integrating DevOps and CI/CD workflows.
 - Creator of 
   - [Gardarr 🪴](https://github.com/jfxdev/gardarr)
   - [Fulgur ⚡](https://github.com/jfxdev/fulgur)
