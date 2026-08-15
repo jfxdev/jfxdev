@@ -1,10 +1,13 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer from Brazil!
+#### Full-Stack / Platform Engineer from Brazil
 
-- ⚙️ I use daily: `.go`, `.ts`, `.vue`, `.tsx`
-- Also proficient with `.cpp` and `.py`
-- My expertise lies in building platforms geared towards large teams of developers to accelerate the deployment process of their applications, as well as integrating DevOps and CI/CD workflows.
-- Creator of
-  - ⚡ [WireOps](https://github.com/jfxdev/wireops) - Docker Compose GitOps Orchestrator
-  - 🪴 [Gardarr](https://github.com/jfxdev/gardarr) - Lightweight qBittorrent OSS client mobile first
+- ⚙️ Daily stack: `Go` · `TypeScript` · `Vue` · `.tsx`
+- 🧰 Also working with `C++` and `Python`
+- 🏗️ I build internal platforms and developer tooling that make software teams faster and more self-sufficient, from infra abstractions to the interfaces engineers actually use
+
+#### 🔨 Projects I've built
+
+- ⚡ **[WireOps](https://github.com/jfxdev/wireops)** — Docker Compose GitOps orchestrator, eliminates manual deploys
+- 🪴 **[Gardarr](https://github.com/jfxdev/gardarr)** — Lightweight, mobile-first qBittorrent OSS client
+- 📜 **[Grom](https://github.com/jfxdev/grom-registry)** — Self-hosted OCI registry with secure access, web management, and built-in recovery
