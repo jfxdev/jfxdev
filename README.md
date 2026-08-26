@@ -10,4 +10,4 @@
 
 - ⚡ **[WireOps](https://github.com/jfxdev/wireops)** — Docker Compose GitOps orchestrator, eliminates manual deploys
 - 🪴 **[Gardarr](https://github.com/jfxdev/gardarr)** — Lightweight, mobile-first qBittorrent OSS client
-- 📜 **[Grom](https://github.com/jfxdev/grom-registry)** — Self-hosted OCI registry with secure access, web management, and built-in recovery
+- 📜 **[Grom Registry](https://github.com/jfxdev/grom-registry)** — Self-hosted OCI registry with secure access, web management, and built-in recovery
