@@ -9,5 +9,5 @@
 #### 🔨 Projects I've built
 
 - ⚡ **[WireOps](https://github.com/jfxdev/wireops)** — Docker Compose GitOps orchestrator, eliminates manual deploys
-- 🪴 **[Gardarr](https://github.com/jfxdev/gardarr)** — FOSS qBittorrent multi instance management
+- 🪴 **[Gardarr](https://github.com/jfxdev/gardarr)** — FOSS qBittorrent multi instance management, premium experience for torrenting
 - 📜 **[Grom Registry](https://github.com/jfxdev/grom-registry)** — Self-hosted OCI registry with secure access, web management, and built-in recovery
