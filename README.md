@@ -2,8 +2,8 @@
 
 #### Full-Stack / Platform Engineer from Brazil
 
-- ⚙️ Daily stack: `Go` · `TypeScript` · `Vue` · `.tsx`
-- 🧰 Also working with `C++` and `Python`
+- ⚙️ Daily stack: `.go` · `.ts` · `.vue` · `.tsx`
+- 🧰 Also working with `.cpp` and `.py`
 - 🏗️ I build internal platforms and developer tooling that make software teams faster and more self-sufficient, from infra abstractions to the interfaces engineers actually use
 
 #### 🔨 Projects I've built
